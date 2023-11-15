@@ -608,8 +608,5 @@ STYLES .CSS
 
 ![WhatsApp Image 2023-11-14 at 19 40 48_aafec728](https://github.com/Harish2404lll/softweb/assets/141472096/3fe9ab25-f7a3-4869-8d01-afc6202c84df)
 
-![image](https://github.com/Harish2404lll/softweb/assets/141472096/b74ebd8a-7173-4801-8fe6-bbe505bc644a)
-
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
